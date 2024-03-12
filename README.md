@@ -29,8 +29,9 @@ Watch our project demo to see how we leverage DTRs and RL in Precision Medicine:
 ## Getting Started
 
 ```bash
+# install requirements
 pip install streamlit
+# clone repo and run the app
 git clone [https://your-repository-link.git](https://github.com/xiaoxuanfu/MLDA_DocDiagx.git)
 cd MLDA_DocDiagx
 streamlit run mainPage.py
-# Add further setup and execution instructions here
