@@ -1,4 +1,4 @@
-# Precision Medicine with Dynamic Treatment Regimens (DTR) and Reinforcement Learning (RL)
+# HIV Treatment Recommendation with Reinforcement Learning (RL)
 
 ## Overview
 
